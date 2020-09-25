@@ -1,0 +1,4 @@
+drop table personnels_administratifs
+drop table personnels_chantier
+create table types_personnels 
+add column types_peronnel_id to personnels
